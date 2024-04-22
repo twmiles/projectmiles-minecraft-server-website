@@ -100,12 +100,14 @@ h1>a {
     .button {
         float:none!important;
         margin: none;
-        margin-top: 30px
+        margin-top: 25px
     }
 
     .wrap {
         width: auto;
         height: auto
+		position: absolute;
+		top: 65%
     }
 }
 
